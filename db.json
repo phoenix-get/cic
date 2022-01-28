@@ -1,9 +1,9 @@
 {
   "posts": 
-    { "alr1": "",
-      "alr1_pr": "",
-      "alr2": "",
-      "alr2_pr": "",
+    { "alr1": "Heater Not Working",
+      "alr1_pr": 1,
+      "alr2": "BWS not Connected",
+      "alr2_pr": 0,
       "alr3": "",
       "alr3_pr": ""
     },
